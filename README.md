@@ -4,4 +4,4 @@ This particular dashboard helps to analyze the profits made across different cat
 
 
 .twb file of the dashboard i built using Superstore data set -excel.
-[Uploading Superstore Profit Analysis.twb…]()
+file name : Superstore Profit Analysis.twb
